@@ -1,4 +1,4 @@
-# EDUCATIONAL INSTITUTE WEBSITE
+# PRABHUDESAI TUTORIALS 
 - This project is a interactive and responsive website for an educational coaching institute created using HTML , CSS , JS , Jquery
 - It provides information about courses, faculty, branches, institue events and allows students to contact and apply online.
 ## FEATURES
